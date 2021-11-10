@@ -2,4 +2,4 @@
 
 Svg icon for Unge-Ui
 
-[https://github.com/peterroe/ungeui](https://github.com/peterroe/ungeui)
+[preview](https://peterroe.github.io/ungeui/components/icon/)
