@@ -1,10 +1,16 @@
 {
-    "name": "ungeicons",
-    "version": "1.1.0",
+    "name": "@ungeui/icons",
+    "version": "1.1.5",
     "author": "peterroe",
-    "main": "./dist/ungeicons.umd.js",
-    "module": "./dist/ungeicons.es.js",
+    "main": "./dist/icons.umd.js",
+    "module": "./dist/icons.es.js",
     "license": "MIT",
+    "exports": {
+        ".": {
+            "import": "./dist/icons.es.js",
+            "require": "./dist/icons.umd.js"
+        }
+    },
     "scripts": {
         "dev": "vite",
         "build": "vite build"

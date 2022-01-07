@@ -100,7 +100,241 @@ import IconWork from './components/UWork.vue'
 import IconZoomIn from './components/UZoomIn.vue'
 import IconZoomOut from './components/UZoomOut.vue'
 import IconZoomReset from './components/UZoomReset.vue'
-
+import IconsAirplayOutline from './components/TeenyiconsAirplayOutline.vue'
+import IconsAirpodsOutline from './components/TeenyiconsAirpodsOutline.vue'
+import IconsAlarmOutline from './components/TeenyiconsAlarmOutline.vue'
+import IconsAlienOutline from './components/TeenyiconsAlienOutline.vue'
+import IconsAnchorOutline from './components/TeenyiconsAnchorOutline.vue'
+import IconsAndroidOutline from './components/TeenyiconsAndroidOutline.vue'
+import IconsAngularOutline from './components/TeenyiconsAngularOutline.vue'
+import IconsAppleOutline from './components/TeenyiconsAppleOutline.vue'
+import IconsArchiveOutline from './components/TeenyiconsArchiveOutline.vue'
+import IconsAtOutline from './components/TeenyiconsAtOutline.vue'
+import IconsAttachOutline from './components/TeenyiconsAttachOutline.vue'
+import IconsAzureOutline from './components/TeenyiconsAzureOutline.vue'
+import IconsBagAltOutline from './components/TeenyiconsBagAltOutline.vue'
+import IconsBagOutline from './components/TeenyiconsBagOutline.vue'
+import IconsBankOutline from './components/TeenyiconsBankOutline.vue'
+import IconsBarcodeOutline from './components/TeenyiconsBarcodeOutline.vue'
+import IconsBasketOutline from './components/TeenyiconsBasketOutline.vue'
+import IconsBathOutline from './components/TeenyiconsBathOutline.vue'
+import IconsBehanceOutline from './components/TeenyiconsBehanceOutline.vue'
+import IconsBellOutline from './components/TeenyiconsBellOutline.vue'
+import IconsBinOutline from './components/TeenyiconsBinOutline.vue'
+import IconsBitcoinOutline from './components/TeenyiconsBitcoinOutline.vue'
+import IconsBoldOutline from './components/TeenyiconsBoldOutline.vue'
+import IconsBookOutline from './components/TeenyiconsBookOutline.vue'
+import IconsBoxOutline from './components/TeenyiconsBoxOutline.vue'
+import IconsBracketOutline from './components/TeenyiconsBracketOutline.vue'
+import IconsBugOutline from './components/TeenyiconsBugOutline.vue'
+import IconsBulbOnOutline from './components/TeenyiconsBulbOnOutline.vue'
+import IconsButtonOutline from './components/TeenyiconsButtonOutline.vue'
+import IconsCameraOutline from './components/TeenyiconsCameraOutline.vue'
+import IconsCarOutline from './components/TeenyiconsCarOutline.vue'
+import IconsCartOutline from './components/TeenyiconsCartOutline.vue'
+import IconsChatbotOutline from './components/TeenyiconsChatbotOutline.vue'
+import IconsChatOutline from './components/TeenyiconsChatOutline.vue'
+import IconsChromeOutline from './components/TeenyiconsChromeOutline.vue'
+import IconsChurchOutline from './components/TeenyiconsChurchOutline.vue'
+import IconsCircleOutline from './components/TeenyiconsCircleOutline.vue'
+import IconsClockOutline from './components/TeenyiconsClockOutline.vue'
+import IconsCodeOutline from './components/TeenyiconsCodeOutline.vue'
+import IconsCodepenOutline from './components/TeenyiconsCodepenOutline.vue'
+import IconsCogOutline from './components/TeenyiconsCogOutline.vue'
+import IconsCompassOutline from './components/TeenyiconsCompassOutline.vue'
+import IconsContactOutline from './components/TeenyiconsContactOutline.vue'
+import IconsCropOutline from './components/TeenyiconsCropOutline.vue'
+import IconsCSharpOutline from './components/TeenyiconsCSharpOutline.vue'
+import IconsCss3Outline from './components/TeenyiconsCss3Outline.vue'
+import IconsCsvOutline from './components/TeenyiconsCsvOutline.vue'
+import IconsDeniedOutline from './components/TeenyiconsDeniedOutline.vue'
+import IconsDenoOutline from './components/TeenyiconsDenoOutline.vue'
+import IconsDiamondOutline from './components/TeenyiconsDiamondOutline.vue'
+import IconsDiscordOutline from './components/TeenyiconsDiscordOutline.vue'
+import IconsDockerOutline from './components/TeenyiconsDockerOutline.vue'
+import IconsDocOutline from './components/TeenyiconsDocOutline.vue'
+import IconsDollarOutline from './components/TeenyiconsDollarOutline.vue'
+import IconsDribbbleOutline from './components/TeenyiconsDribbbleOutline.vue'
+import IconsDribbbleSolid from './components/TeenyiconsDribbbleSolid.vue'
+import IconsDropperOutline from './components/TeenyiconsDropperOutline.vue'
+import IconsEdgeOutline from './components/TeenyiconsEdgeOutline.vue'
+import IconsEdit1Outline from './components/TeenyiconsEdit1Outline.vue'
+import IconsEpsOutline from './components/TeenyiconsEpsOutline.vue'
+import IconsEslintOutline from './components/TeenyiconsEslintOutline.vue'
+import IconsEuroOutline from './components/TeenyiconsEuroOutline.vue'
+import IconsFaceIdOutline from './components/TeenyiconsFaceIdOutline.vue'
+import IconsFigmaOutline from './components/TeenyiconsFigmaOutline.vue'
+import IconsFileOutline from './components/TeenyiconsFileOutline.vue'
+import IconsFileXOutline from './components/TeenyiconsFileXOutline.vue'
+import IconsFilterOutline from './components/TeenyiconsFilterOutline.vue'
+import IconsFingerprintSolid from './components/TeenyiconsFingerprintSolid.vue'
+import IconsFlagOutline from './components/TeenyiconsFlagOutline.vue'
+import IconsFolderOutline from './components/TeenyiconsFolderOutline.vue'
+import IconsFoldersOutline from './components/TeenyiconsFoldersOutline.vue'
+import IconsForwardOutline from './components/TeenyiconsForwardOutline.vue'
+import IconsFrameOutline from './components/TeenyiconsFrameOutline.vue'
+import IconsFramerOutline from './components/TeenyiconsFramerOutline.vue'
+import IconsGameControllerOutline from './components/TeenyiconsGameControllerOutline.vue'
+import IconsGameControllerRetroOutline from './components/TeenyiconsGameControllerRetroOutline.vue'
+import IconsGameControllerRetroSolid from './components/TeenyiconsGameControllerRetroSolid.vue'
+import IconsGameControllerSolid from './components/TeenyiconsGameControllerSolid.vue'
+import IconsGiftOutline from './components/TeenyiconsGiftOutline.vue'
+import IconsGitlabOutline from './components/TeenyiconsGitlabOutline.vue'
+import IconsGitOutline from './components/TeenyiconsGitOutline.vue'
+import IconsGlobeOutline from './components/TeenyiconsGlobeOutline.vue'
+import IconsGoogleOutline from './components/TeenyiconsGoogleOutline.vue'
+import IconsGraphqlOutline from './components/TeenyiconsGraphqlOutline.vue'
+import IconsHashtagOutline from './components/TeenyiconsHashtagOutline.vue'
+import IconsHeadsetOutline from './components/TeenyiconsHeadsetOutline.vue'
+import IconsHexagonOutline from './components/TeenyiconsHexagonOutline.vue'
+import IconsHistoryOutline from './components/TeenyiconsHistoryOutline.vue'
+import IconsHomeOutline from './components/TeenyiconsHomeOutline.vue'
+import IconsHouseOutline from './components/TeenyiconsHouseOutline.vue'
+import IconsHtml5Outline from './components/TeenyiconsHtml5Outline.vue'
+import IconsIdOutline from './components/TeenyiconsIdOutline.vue'
+import IconsImacOutline from './components/TeenyiconsImacOutline.vue'
+import IconsImageOutline from './components/TeenyiconsImageOutline.vue'
+import IconsInboxOutline from './components/TeenyiconsInboxOutline.vue'
+import IconsIndentIncreaseOutline from './components/TeenyiconsIndentIncreaseOutline.vue'
+import IconsIndentIncreaseSolid from './components/TeenyiconsIndentIncreaseSolid.vue'
+import IconsInvoiceOutline from './components/TeenyiconsInvoiceOutline.vue'
+import IconsItalicOutline from './components/TeenyiconsItalicOutline.vue'
+import IconsJpgOutline from './components/TeenyiconsJpgOutline.vue'
+import IconsKanbanOutline from './components/TeenyiconsKanbanOutline.vue'
+import IconsKeyOutline from './components/TeenyiconsKeyOutline.vue'
+import IconsLaptopOutline from './components/TeenyiconsLaptopOutline.vue'
+import IconsLaravelOutline from './components/TeenyiconsLaravelOutline.vue'
+import IconsLayersOutline from './components/TeenyiconsLayersOutline.vue'
+import IconsLegoOutline from './components/TeenyiconsLegoOutline.vue'
+import IconsLightningCableOutline from './components/TeenyiconsLightningCableOutline.vue'
+import IconsLightningCableSolid from './components/TeenyiconsLightningCableSolid.vue'
+import IconsLineOutline from './components/TeenyiconsLineOutline.vue'
+import IconsLinkOutline from './components/TeenyiconsLinkOutline.vue'
+import IconsLinuxOutline from './components/TeenyiconsLinuxOutline.vue'
+import IconsLoaderOutline from './components/TeenyiconsLoaderOutline.vue'
+import IconsLockOutline from './components/TeenyiconsLockOutline.vue'
+import IconsLogoutOutline from './components/TeenyiconsLogoutOutline.vue'
+import IconsMagsafeOutline from './components/TeenyiconsMagsafeOutline.vue'
+import IconsMediumOutline from './components/TeenyiconsMediumOutline.vue'
+import IconsMenuOutline from './components/TeenyiconsMenuOutline.vue'
+import IconsMessageOutline from './components/TeenyiconsMessageOutline.vue'
+import IconsMinusOutline from './components/TeenyiconsMinusOutline.vue'
+import IconsMobileOutline from './components/TeenyiconsMobileOutline.vue'
+import IconsMoneyOutline from './components/TeenyiconsMoneyOutline.vue'
+import IconsMongodbOutline from './components/TeenyiconsMongodbOutline.vue'
+import IconsMoodTongueOutline from './components/TeenyiconsMoodTongueOutline.vue'
+import IconsMoodTongueSolid from './components/TeenyiconsMoodTongueSolid.vue'
+import IconsMoonOutline from './components/TeenyiconsMoonOutline.vue'
+import IconsMouseOutline from './components/TeenyiconsMouseOutline.vue'
+import IconsMovOutline from './components/TeenyiconsMovOutline.vue'
+import IconsMp3Outline from './components/TeenyiconsMp3Outline.vue'
+import IconsMp4Outline from './components/TeenyiconsMp4Outline.vue'
+import IconsMsWordOutline from './components/TeenyiconsMsWordOutline.vue'
+import IconsN64Outline from './components/TeenyiconsN64Outline.vue'
+import IconsNetlifyOutline from './components/TeenyiconsNetlifyOutline.vue'
+import IconsNextjsOutline from './components/TeenyiconsNextjsOutline.vue'
+import IconsNextOutline from './components/TeenyiconsNextOutline.vue'
+import IconsNodejsOutline from './components/TeenyiconsNodejsOutline.vue'
+import IconsNpmOutline from './components/TeenyiconsNpmOutline.vue'
+import IconsNuxtjsOutline from './components/TeenyiconsNuxtjsOutline.vue'
+import IconsOtpOutline from './components/TeenyiconsOtpOutline.vue'
+import IconsPatreonOutline from './components/TeenyiconsPatreonOutline.vue'
+import IconsPawOutline from './components/TeenyiconsPawOutline.vue'
+import IconsPawsOutline from './components/TeenyiconsPawsOutline.vue'
+import IconsPaypalOutline from './components/TeenyiconsPaypalOutline.vue'
+import IconsPdfOutline from './components/TeenyiconsPdfOutline.vue'
+import IconsPenOutline from './components/TeenyiconsPenOutline.vue'
+import IconsPhoneOutline from './components/TeenyiconsPhoneOutline.vue'
+import IconsPinAltOutline from './components/TeenyiconsPinAltOutline.vue'
+import IconsPinOutline from './components/TeenyiconsPinOutline.vue'
+import IconsPlantOutline from './components/TeenyiconsPlantOutline.vue'
+import IconsPlayOutline from './components/TeenyiconsPlayOutline.vue'
+import IconsPlugOutline from './components/TeenyiconsPlugOutline.vue'
+import IconsPngOutline from './components/TeenyiconsPngOutline.vue'
+import IconsPoolOutline from './components/TeenyiconsPoolOutline.vue'
+import IconsPoundOutline from './components/TeenyiconsPoundOutline.vue'
+import IconsPowerOutline from './components/TeenyiconsPowerOutline.vue'
+import IconsPptOutline from './components/TeenyiconsPptOutline.vue'
+import IconsPrintOutline from './components/TeenyiconsPrintOutline.vue'
+import IconsPythonOutline from './components/TeenyiconsPythonOutline.vue'
+import IconsQrCodeOutline from './components/TeenyiconsQrCodeOutline.vue'
+import IconsQuoteOutline from './components/TeenyiconsQuoteOutline.vue'
+import IconsRandOutline from './components/TeenyiconsRandOutline.vue'
+import IconsReactOutline from './components/TeenyiconsReactOutline.vue'
+import IconsReceiptOutline from './components/TeenyiconsReceiptOutline.vue'
+import IconsRedditOutline from './components/TeenyiconsRedditOutline.vue'
+import IconsRefreshOutline from './components/TeenyiconsRefreshOutline.vue'
+import IconsRewindOutline from './components/TeenyiconsRewindOutline.vue'
+import IconsRippleSolid from './components/TeenyiconsRippleSolid.vue'
+import IconsRobotOutline from './components/TeenyiconsRobotOutline.vue'
+import IconsRollerOutline from './components/TeenyiconsRollerOutline.vue'
+import IconsRouterOutline from './components/TeenyiconsRouterOutline.vue'
+import IconsRssOutline from './components/TeenyiconsRssOutline.vue'
+import IconsRubyOutline from './components/TeenyiconsRubyOutline.vue'
+import IconsRupeeOutline from './components/TeenyiconsRupeeOutline.vue'
+import IconsRustOutline from './components/TeenyiconsRustOutline.vue'
+import IconsSafariOutline from './components/TeenyiconsSafariOutline.vue'
+import IconsSafeOutline from './components/TeenyiconsSafeOutline.vue'
+import IconsSaveOutline from './components/TeenyiconsSaveOutline.vue'
+import IconsScanOutline from './components/TeenyiconsScanOutline.vue'
+import IconsSchoolOutline from './components/TeenyiconsSchoolOutline.vue'
+import IconsScreenOutline from './components/TeenyiconsScreenOutline.vue'
+import IconsScribbleSolid from './components/TeenyiconsScribbleSolid.vue'
+import IconsSdCardOutline from './components/TeenyiconsSdCardOutline.vue'
+import IconsSearchOutline from './components/TeenyiconsSearchOutline.vue'
+import IconsSectionRemoveOutline from './components/TeenyiconsSectionRemoveOutline.vue'
+import IconsSendOutline from './components/TeenyiconsSendOutline.vue'
+import IconsSendUpOutline from './components/TeenyiconsSendUpOutline.vue'
+import IconsServersOutline from './components/TeenyiconsServersOutline.vue'
+import IconsShareOutline from './components/TeenyiconsShareOutline.vue'
+import IconsShieldOutline from './components/TeenyiconsShieldOutline.vue'
+import IconsShopOutline from './components/TeenyiconsShopOutline.vue'
+import IconsSigninOutline from './components/TeenyiconsSigninOutline.vue'
+import IconsSignOutline from './components/TeenyiconsSignOutline.vue'
+import IconsSimOutline from './components/TeenyiconsSimOutline.vue'
+import IconsSkullOutline from './components/TeenyiconsSkullOutline.vue'
+import IconsSkypeOutline from './components/TeenyiconsSkypeOutline.vue'
+import IconsSlackOutline from './components/TeenyiconsSlackOutline.vue'
+import IconsSnesOutline from './components/TeenyiconsSnesOutline.vue'
+import IconsSortUpOutline from './components/TeenyiconsSortUpOutline.vue'
+import IconsSpotifyOutline from './components/TeenyiconsSpotifyOutline.vue'
+import IconsSquareOutline from './components/TeenyiconsSquareOutline.vue'
+import IconsStampOutline from './components/TeenyiconsStampOutline.vue'
+import IconsStarOutline from './components/TeenyiconsStarOutline.vue'
+import IconsStopOutline from './components/TeenyiconsStopOutline.vue'
+import IconsStrikethroughSolid from './components/TeenyiconsStrikethroughSolid.vue'
+import IconsSunOutline from './components/TeenyiconsSunOutline.vue'
+import IconsSvelteOutline from './components/TeenyiconsSvelteOutline.vue'
+import IconsSvgOutline from './components/TeenyiconsSvgOutline.vue'
+import IconsTableOutline from './components/TeenyiconsTableOutline.vue'
+import IconsTableSolid from './components/TeenyiconsTableSolid.vue'
+import IconsTagOutline from './components/TeenyiconsTagOutline.vue'
+import IconsTextOutline from './components/TeenyiconsTextOutline.vue'
+import IconsTiktokOutline from './components/TeenyiconsTiktokOutline.vue'
+import IconsTriangleOutline from './components/TeenyiconsTriangleOutline.vue'
+import IconsTriangleSolid from './components/TeenyiconsTriangleSolid.vue'
+import IconsTrophyOutline from './components/TeenyiconsTrophyOutline.vue'
+import IconsTvOutline from './components/TeenyiconsTvOutline.vue'
+import IconsTwitchOutline from './components/TeenyiconsTwitchOutline.vue'
+import IconsTwitterOutline from './components/TeenyiconsTwitterOutline.vue'
+import IconsUnlockOutline from './components/TeenyiconsUnlockOutline.vue'
+import IconsUploadOutline from './components/TeenyiconsUploadOutline.vue'
+import IconsUpOutline from './components/TeenyiconsUpOutline.vue'
+import IconsUserOutline from './components/TeenyiconsUserOutline.vue'
+import IconsUsersOutline from './components/TeenyiconsUsersOutline.vue'
+import IconsVimOutline from './components/TeenyiconsVimOutline.vue'
+import IconsVueOutline from './components/TeenyiconsVueOutline.vue'
+import IconsWalletOutline from './components/TeenyiconsWalletOutline.vue'
+import IconsWandOutline from './components/TeenyiconsWandOutline.vue'
+import IconsWanOutline from './components/TeenyiconsWanOutline.vue'
+import IconsWatchOutline from './components/TeenyiconsWatchOutline.vue'
+import IconsWebpackOutline from './components/TeenyiconsWebpackOutline.vue'
+import IconsWindowsOutline from './components/TeenyiconsWindowsOutline.vue'
+import IconsXlsOutline from './components/TeenyiconsXlsOutline.vue'
+import IconsXSmallOutline from './components/TeenyiconsXSmallOutline.vue'
+import IconsYenOutline from './components/TeenyiconsYenOutline.vue'
+import IconsYoutubeOutline from './components/TeenyiconsYoutubeOutline.vue'
+import IconsZoomInOutline from './components/TeenyiconsZoomInOutline.vue'
 export {
     IconActivity,
     IconAlert,
@@ -203,5 +437,240 @@ export {
     IconWork,
     IconZoomIn,
     IconZoomOut,
-    IconZoomReset
+    IconZoomReset,
+    IconsAirplayOutline,
+    IconsAirpodsOutline,
+    IconsAlarmOutline,
+    IconsAlienOutline,
+    IconsAnchorOutline,
+    IconsAndroidOutline,
+    IconsAngularOutline,
+    IconsAppleOutline,
+    IconsArchiveOutline,
+    IconsAtOutline,
+    IconsAttachOutline,
+    IconsAzureOutline,
+    IconsBagAltOutline,
+    IconsBagOutline,
+    IconsBankOutline,
+    IconsBarcodeOutline,
+    IconsBasketOutline,
+    IconsBathOutline,
+    IconsBehanceOutline,
+    IconsBellOutline,
+    IconsBinOutline,
+    IconsBitcoinOutline,
+    IconsBoldOutline,
+    IconsBookOutline,
+    IconsBoxOutline,
+    IconsBracketOutline,
+    IconsBugOutline,
+    IconsBulbOnOutline,
+    IconsButtonOutline,
+    IconsCameraOutline,
+    IconsCarOutline,
+    IconsCartOutline,
+    IconsChatbotOutline,
+    IconsChatOutline,
+    IconsChromeOutline,
+    IconsChurchOutline,
+    IconsCircleOutline,
+    IconsClockOutline,
+    IconsCodeOutline,
+    IconsCodepenOutline,
+    IconsCogOutline,
+    IconsCompassOutline,
+    IconsContactOutline,
+    IconsCropOutline,
+    IconsCSharpOutline,
+    IconsCss3Outline,
+    IconsCsvOutline,
+    IconsDeniedOutline,
+    IconsDenoOutline,
+    IconsDiamondOutline,
+    IconsDiscordOutline,
+    IconsDockerOutline,
+    IconsDocOutline,
+    IconsDollarOutline,
+    IconsDribbbleOutline,
+    IconsDribbbleSolid,
+    IconsDropperOutline,
+    IconsEdgeOutline,
+    IconsEdit1Outline,
+    IconsEpsOutline,
+    IconsEslintOutline,
+    IconsEuroOutline,
+    IconsFaceIdOutline,
+    IconsFigmaOutline,
+    IconsFileOutline,
+    IconsFileXOutline,
+    IconsFilterOutline,
+    IconsFingerprintSolid,
+    IconsFlagOutline,
+    IconsFolderOutline,
+    IconsFoldersOutline,
+    IconsForwardOutline,
+    IconsFrameOutline,
+    IconsFramerOutline,
+    IconsGameControllerOutline,
+    IconsGameControllerRetroOutline,
+    IconsGameControllerRetroSolid,
+    IconsGameControllerSolid,
+    IconsGiftOutline,
+    IconsGitlabOutline,
+    IconsGitOutline,
+    IconsGlobeOutline,
+    IconsGoogleOutline,
+    IconsGraphqlOutline,
+    IconsHashtagOutline,
+    IconsHeadsetOutline,
+    IconsHexagonOutline,
+    IconsHistoryOutline,
+    IconsHomeOutline,
+    IconsHouseOutline,
+    IconsHtml5Outline,
+    IconsIdOutline,
+    IconsImacOutline,
+    IconsImageOutline,
+    IconsInboxOutline,
+    IconsIndentIncreaseOutline,
+    IconsIndentIncreaseSolid,
+    IconsInvoiceOutline,
+    IconsItalicOutline,
+    IconsJpgOutline,
+    IconsKanbanOutline,
+    IconsKeyOutline,
+    IconsLaptopOutline,
+    IconsLaravelOutline,
+    IconsLayersOutline,
+    IconsLegoOutline,
+    IconsLightningCableOutline,
+    IconsLightningCableSolid,
+    IconsLineOutline,
+    IconsLinkOutline,
+    IconsLinuxOutline,
+    IconsLoaderOutline,
+    IconsLockOutline,
+    IconsLogoutOutline,
+    IconsMagsafeOutline,
+    IconsMediumOutline,
+    IconsMenuOutline,
+    IconsMessageOutline,
+    IconsMinusOutline,
+    IconsMobileOutline,
+    IconsMoneyOutline,
+    IconsMongodbOutline,
+    IconsMoodTongueOutline,
+    IconsMoodTongueSolid,
+    IconsMoonOutline,
+    IconsMouseOutline,
+    IconsMovOutline,
+    IconsMp3Outline,
+    IconsMp4Outline,
+    IconsMsWordOutline,
+    IconsN64Outline,
+    IconsNetlifyOutline,
+    IconsNextjsOutline,
+    IconsNextOutline,
+    IconsNodejsOutline,
+    IconsNpmOutline,
+    IconsNuxtjsOutline,
+    IconsOtpOutline,
+    IconsPatreonOutline,
+    IconsPawOutline,
+    IconsPawsOutline,
+    IconsPaypalOutline,
+    IconsPdfOutline,
+    IconsPenOutline,
+    IconsPhoneOutline,
+    IconsPinAltOutline,
+    IconsPinOutline,
+    IconsPlantOutline,
+    IconsPlayOutline,
+    IconsPlugOutline,
+    IconsPngOutline,
+    IconsPoolOutline,
+    IconsPoundOutline,
+    IconsPowerOutline,
+    IconsPptOutline,
+    IconsPrintOutline,
+    IconsPythonOutline,
+    IconsQrCodeOutline,
+    IconsQuoteOutline,
+    IconsRandOutline,
+    IconsReactOutline,
+    IconsReceiptOutline,
+    IconsRedditOutline,
+    IconsRefreshOutline,
+    IconsRewindOutline,
+    IconsRippleSolid,
+    IconsRobotOutline,
+    IconsRollerOutline,
+    IconsRouterOutline,
+    IconsRssOutline,
+    IconsRubyOutline,
+    IconsRupeeOutline,
+    IconsRustOutline,
+    IconsSafariOutline,
+    IconsSafeOutline,
+    IconsSaveOutline,
+    IconsScanOutline,
+    IconsSchoolOutline,
+    IconsScreenOutline,
+    IconsScribbleSolid,
+    IconsSdCardOutline,
+    IconsSearchOutline,
+    IconsSectionRemoveOutline,
+    IconsSendOutline,
+    IconsSendUpOutline,
+    IconsServersOutline,
+    IconsShareOutline,
+    IconsShieldOutline,
+    IconsShopOutline,
+    IconsSigninOutline,
+    IconsSignOutline,
+    IconsSimOutline,
+    IconsSkullOutline,
+    IconsSkypeOutline,
+    IconsSlackOutline,
+    IconsSnesOutline,
+    IconsSortUpOutline,
+    IconsSpotifyOutline,
+    IconsSquareOutline,
+    IconsStampOutline,
+    IconsStarOutline,
+    IconsStopOutline,
+    IconsStrikethroughSolid,
+    IconsSunOutline,
+    IconsSvelteOutline,
+    IconsSvgOutline,
+    IconsTableOutline,
+    IconsTableSolid,
+    IconsTagOutline,
+    IconsTextOutline,
+    IconsTiktokOutline,
+    IconsTriangleOutline,
+    IconsTriangleSolid,
+    IconsTrophyOutline,
+    IconsTvOutline,
+    IconsTwitchOutline,
+    IconsTwitterOutline,
+    IconsUnlockOutline,
+    IconsUploadOutline,
+    IconsUpOutline,
+    IconsUserOutline,
+    IconsUsersOutline,
+    IconsVimOutline,
+    IconsVueOutline,
+    IconsWalletOutline,
+    IconsWandOutline,
+    IconsWanOutline,
+    IconsWatchOutline,
+    IconsWebpackOutline,
+    IconsWindowsOutline,
+    IconsXlsOutline,
+    IconsXSmallOutline,
+    IconsYenOutline,
+    IconsYoutubeOutline,
+    IconsZoomInOutline,
 }

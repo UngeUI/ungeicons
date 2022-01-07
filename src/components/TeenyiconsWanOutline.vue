@@ -1,0 +1,10 @@
+
+<template>
+  <svg width="1em" height="1em" viewBox="0 0 15 15"><g fill="none"><path d="M3.5 14.5l-.489.105a.5.5 0 0 0 .967.042L3.5 14.5zm4-13l.478-.147a.5.5 0 0 0-.956 0L7.5 1.5zm4 13l-.478.147a.5.5 0 0 0 .967-.042L11.5 14.5zM.011.605l3 14l.978-.21l-3-14l-.978.21zm3.967 14.042l4-13l-.956-.294l-4 13l.956.294zm3.044-13l4 13l.956-.294l-4-13l-.956.294zm4.967 12.958l3-14l-.978-.21l-3 14l.978.21zM0 6h15V5H0v1zm0 4h15V9H0v1z" fill="currentColor"></path></g></svg>
+</template>
+
+<script>
+export default {
+  name: 'IconsWanOutline'
+}
+</script>
